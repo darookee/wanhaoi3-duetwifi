@@ -87,3 +87,5 @@ hotend.
 
 Now you should be good to go. Upload a gcode file and start your first print
 with your new DuetWifi.
+
+[A video of the working i3](https://www.youtube.com/watch?v=eIJzJKYFMbE)
